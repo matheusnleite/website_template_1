@@ -1,0 +1,2 @@
+navbar: https://www.youtube.com/watch?v=tYULT_cjUhE
+navbar hover? https://www.youtube.com/watch?v=sFuhHt4BXng
